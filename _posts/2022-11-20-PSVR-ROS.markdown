@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "$50 Visual SLAM in ROS Using a Modified PlayStation Camera"
+date:   2022-11-20 12:32:45 +0100
+categories: Side_Project
+image: images/psvr_ros/PSVRBanner.png
+skills: 
+---
+
+# $50 Visual SLAM in ROS Using a Modified PlayStation Camera
+<!-- Type of Project -->
+<div align="center"> Side Project </div>
+
+### Overview
+This project served as a refresher for ROS after completing my undergraduate in engineering and to give me the opportunity to educate myself about how stereo imaging and Visual SLAM is applied in ROS. 
+
+The PlayStation VR camera is an inexpensive, off the shelf, stereo camera that can be found on the second hand market for \<$50. This project turned it into an accessible avenue for 3D mapping, SLAM, and stereo imaging in ROS. 
+
+I developed the ROS nodes necessary to use the PlayStation VR stereo camera as an input device for popular VSLAM packages such as 'RTAB-Map' and 'stereo_image_proc'. This project built off the work from [Hackinside](https://github.com/Hackinside/PS4-CAMERA-DRIVERS) who developed the drivers so the camera would function as a usb device.
+
+The node publishes individual, time synchronized images from the PlayStation cameras left and right sensors. It applies colour formating, cropping, frame IDs, metadata, and loads each cameras calibration info.
+
+The project is packaged for easy installation with your ROS projects. 
+
+### Proficientcies
+<div class="marquee">
+    <div class="marquee-content scroll">
+        <div>ROS | </div>
+        <div>Python | </div>
+        <div>Visual SLAM | </div>
+        <div>Computer Vision | </div>
+        <div>OpenCV | </div>
+        <div>Stereo Calibration | </div>
+        <div>RTAB-Map | </div>
+        <div>Nav Stack | </div>
+    </div>
+    <div class="marquee-content scroll">
+        <div>ROS | </div>
+        <div>Python | </div>
+        <div>Visual SLAM | </div>
+        <div>Computer Vision | </div>
+        <div>OpenCV | </div>
+        <div>Stereo Calibration | </div>
+        <div>RTAB-Map | </div>
+    </div>
+</div>
+
+### Media
+
+<div align="center">Hardware</div>
+<img src="/images/psvr_ros/psvr_hardware.jpg" alt="hardware" width="500">
+
+<div align="center">Handheld Point Cloud</div>
+![points_gif](/images/psvr_ros/PSVR_point.gif)
+
+<div align="center">Still Frames with Keypoint Detection</div>
+![images_gif](/images/psvr_ros/PSVR_image.gif)
+
+<div align="center">Sample Result</div>
+<img src="/images/psvr_ros/example_scan.png" alt="sample_result" width="500">
+
+### Further Readings
+* [Git Repo](https://github.com/TankyFranky/PS4_Stereo_ROS_SLAM)
+* [Class Assignment using this Project](https://github.com/TankyFranky/tankyfranky.github.io/blob/jekyll_style_learning/images/psvr_ros/ELEC_845_Final_Project___Francesco_Marrato.pdf)
+
+<br>
+![PSVRBanner](/images/psvr_ros/PSVRBanner.png)
