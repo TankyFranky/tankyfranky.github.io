@@ -6,7 +6,7 @@ permalink: /
 
 ## Nice to Meet You
 
-My names Francesco Marrato. I am a Canadian engineer with a MASc in Electrical and Computer engineering.
+My name's Francesco Marrato. I am a Canadian engineer with a MASc in Electrical and Computer engineering.
 
 I am an experienced roboticist interested in the creation of reliable, capable, and dynamic, autonomous field robots. 
 

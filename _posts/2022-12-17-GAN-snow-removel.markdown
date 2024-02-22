@@ -11,7 +11,7 @@ skills:
 <div align="center"> Research Project </div>
 
 ### Overview
-This project was taken on as a the term project for my graduate course in machine/deep learning. My research group proposed an alternative method to snow removal in single images that used a less task specific network architecture than the current state of the art.
+This project was taken on as a term project for my graduate course in machine/deep learning. My research group proposed an alternative method to snow removal in single images that used a less task specific network architecture than the current state of the art.
 
 A Pix2Pix General Adversarial Network was trained to remove the effects of falling snow from images. Unlike leading methods (DesnowGAN), which rely on specialized snow identification layers, our method employed a general transition map architecture commonly used for tasks like aerial image-to-map transformation.
 
