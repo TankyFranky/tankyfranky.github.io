@@ -27,6 +27,7 @@ Our contribution lies in exploring new avenues for weather removal, demonstratin
         <div>  TensorFlow | </div>
         <div>Python | </div>
         <div>Big Data Manipulation | </div>
+        <div>Synthetic Data | </div>
         <div>Deep Learning | </div>
         <div>GAN architetcures | </div>
         <div>GPU Cluster Resource Scheduling | </div>
@@ -35,6 +36,7 @@ Our contribution lies in exploring new avenues for weather removal, demonstratin
         <div>  TensorFlow | </div>
         <div>Python | </div>
         <div>Big Data Manipulation | </div>
+        <div>Synthetic Data | </div>
         <div>Deep Learning | </div>
         <div>GAN architetcures | </div>
         <div>GPU Cluster Resource Scheduling | </div>

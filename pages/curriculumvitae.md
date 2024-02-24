@@ -39,7 +39,7 @@ The included projects along with my CV should provide a solid indication of my e
 ---
 *Queen's University*:
 
-*Autodrive II Graduate Research Assistant* - 2021
+*Autodrive II Graduate Research Assistant* - 2021/2022
 : - Advised/Assisted subteam in charge of perception systems.
 : - Implemented LiDAR + computer vision sensor fusion systems.
 : - Managed dataset construction, versioning, and training.
@@ -68,7 +68,7 @@ The included projects along with my CV should provide a solid indication of my e
 *Ferrovial Services* - Internship - 2017/2018/2021
 *Engineering Construction Supervisor*
 : - Collected construction tolerance data to be submitted to the Ontario Federal Government
-: - Managed fleet and material volumes.
+: - Implemented ArcGIS, improving data collection times by 60%.
 
 ### Selected Design Work
 ---
