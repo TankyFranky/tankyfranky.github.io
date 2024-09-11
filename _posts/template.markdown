@@ -13,9 +13,9 @@ skills: skill list
 
 ### Overview
 
-### Media
-
 ### Proficientcies
+
+### Media
 
 ### Further Readings
 
