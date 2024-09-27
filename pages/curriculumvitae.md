@@ -58,6 +58,13 @@ The included projects along with my CV should provide a solid indication of my e
 
 ### Professional Appointments
 ---
+*Calian* - 2024
+*Analyst Nuclear Systems & Robotics R&D*
+: - Developed operational concepts for mobile and workcell manipulators.
+: - Designed end of arm tools for nuclear decomissioning robots.
+: - Researched future opportunites for robotics in nuclear energy.
+
+<br />
 *Ericsson Canada* - Internship - 2019/2020
 *5G Radio Digital Hardware Developer*
 : - Developer of computer vision based automated testing software.
