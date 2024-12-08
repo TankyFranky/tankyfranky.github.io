@@ -58,6 +58,12 @@ The included projects along with my CV should provide a solid indication of my e
 
 ### Professional Appointments
 ---
+*Kraken Robotics* - 2024/Present
+*Robotics Software Developer - Vehicle Team*
+: - Carrying out codebase transition from bespoke towards a common off the shelf product.
+: - Developing ROS2 drivers for reliable operation of sub-surface robotic vehicles deployed in harsh environments.
+
+<br />
 *Calian* - 2024
 *Analyst Nuclear Systems & Robotics R&D*
 : - Developed operational concepts for mobile and workcell manipulators.
@@ -105,6 +111,12 @@ The included projects along with my CV should provide a solid indication of my e
 
 ### Volunteering
 ---
+*Personal*:
+
+*First Lego League St. John's* - 2024
+: - Evaluated student inovation project presentations on ocean cleanup.
+: - Assisted in organization, mentorship, and directing middleschool student teams throughout the competition.
+
 *Queen's University*:
 
 *Kingston Highschool Tech Talk* - 2021
