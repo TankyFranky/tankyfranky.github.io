@@ -1,3 +1,6 @@
+# Hello...
+
+This is the repository of my (Francesco Marrato) portfolio. If you are looking for the website itself, you can find it at [https://tankyfranky.github.io/](https://tankyfranky.github.io/). The websites theme is based off the [jekyll console theme](https://github.com/b2a3e8/jekyll-theme-console) with a few core adjustments to suit my needs.
 
 
 ## Development
