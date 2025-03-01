@@ -61,7 +61,7 @@ The project is packaged for easy installation with your ROS projects.
 
 ### Further Readings
 * [Git Repo](https://github.com/TankyFranky/PS4_Stereo_ROS_SLAM)
-* [Class Assignment using this Project](https://github.com/TankyFranky/tankyfranky.github.io/blob/jekyll_style_learning/images/psvr_ros/ELEC_845_Final_Project___Francesco_Marrato.pdf)
+* [Class Assignment using this Project](https://github.com/TankyFranky/tankyfranky.github.io/blob/master/images/psvr_ros/ELEC_845_Final_Project___Francesco_Marrato.pdf)
 
 <br>
 ![PSVRBanner](/images/psvr_ros/PSVRBanner.png)
