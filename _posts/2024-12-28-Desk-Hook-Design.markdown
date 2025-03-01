@@ -3,7 +3,7 @@ layout: post
 title:  "Learning FEA by Overengineering Desk Furniture"
 date:   2024-12-28 10:10:00 +0100
 categories: Side_Project
-image: images/macplus_restomod/MacPlusRestomodBanner.png
+image: images/desk_hook_fea/BracketFEABanner.png
 skills: "Finite Element Analysis, Sheet Metal Fabrication, Design for Manufacturing, Sim-to-Real Gap, Parametric Design"
 ---
 
@@ -45,16 +45,16 @@ This project was originally intended as a one-day-build, but spiraled into a mul
 ### Media
 
 <div align="center"> Final Design (Real/CAD) </div>
-![FinalHookDesign](/images/spot_research/field_trials.JPG)
+![FinalHookDesign](/images/desk_hook_fea/sim_vs_real.png)
 
 <div align="center"> Simulating Different Configurations </div>
-![QuadSimComparison](/images/spot_research/field_trials.JPG)
+![QuadSimComparison](/images/desk_hook_fea/fea_four_designs.png)
 
 <div align="center"> Hooks in Use </div>
-![HooksOnDesk](/images/spot_research/field_trials.JPG)
+![HooksOnDesk](/images/desk_hook_fea/brackets_in_use.JPG)
 
 ### Further Readings
-* [CAD Files](thingiverse.com)
+* [CAD Files](https://www.thingiverse.com/thing:6904608)
 
 
-![MacPlusBanner](/images/macplus_restomod/MacPlusRestomodBanner.png)
+![BracketFEABanner](/images/desk_hook_fea/BracketFEABanner.png)
